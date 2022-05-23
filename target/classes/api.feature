@@ -12,5 +12,5 @@ Then sera exibido as informacoes do cep
 Examples: 
 
 |cep|
-|44890000|
+|448900001|
 |44900000|
